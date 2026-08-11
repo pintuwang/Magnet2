@@ -1,6 +1,6 @@
 {
-    "last_update": "2026-08-11 22:19",
-    "spot": 13.59,
+    "last_update": "2026-08-12 06:33",
+    "spot": 13.56,
     "data": [
         {
             "date": "2026-08-14",
@@ -46,7 +46,7 @@
             "date": "2026-09-18",
             "max_pain": 20.0,
             "call_oi": 123280,
-            "put_oi": 41491,
+            "put_oi": 41490,
             "pc_ratio": 0.3366,
             "is_monthly": true
         },
